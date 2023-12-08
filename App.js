@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 const heading1 = React.createElement(
   "h1",
   { id: "heading" },
@@ -17,7 +19,6 @@ const child2 = React.createElement("div", { id: "child-2" }, [
   heading1,
   heading2,
 ]);
-
 
 const parent = React.createElement("div", { id: "parent" }, [child1, child2]);
 
