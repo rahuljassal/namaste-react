@@ -1,26 +1,23 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-const heading1 = React.createElement(
-  "h1",
-  { id: "heading" },
-  "Hello from react 1"
-);
-const heading2 = React.createElement(
-  "h2",
-  { id: "heading-2" },
-  "Hello from react 2"
-);
-// console.log(heading);
-const child1 = React.createElement("div", { id: "child-1" }, [
-  heading1,
-  heading2,
-]);
-const child2 = React.createElement("div", { id: "child-2" }, [
-  heading1,
-  heading2,
-]);
+import Header from "./Header";
 
-const parent = React.createElement("div", { id: "parent" }, [child1, child2]);
+// React element
+const heading = React.createElement("h1", { id: "heading" }, "Hello");
+const jsxHeading = <h1 id="heading">hello in JSX</h1>;
+const root = ReactDOM.createRoot(document.getElementById("root"));
+const FunctionalHeading = () => {
+  return <h1>heading in functional</h1>;
+};
+// react functional components
+const HeadingFunctional = () => {
+  return (
+    <div className="heading-container">
+      <Header />
+      <FunctionalHeading />
+      <h1 className="heading">hello in functional component</h1>
+    </div>
+  );
+};
 
-const rootEl = ReactDOM.createRoot(document.getElementById("root"));
-rootEl.render(parent);
+root.render(<HeadingFunctional />);
