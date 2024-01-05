@@ -1,0 +1,22 @@
+.res-card {
+  border-radius: 10px;
+  width: 200px;
+  height: 250px;
+  cursor: pointer;
+  .res-image {
+    height: 60%;
+    width: 100%;
+    border-radius: 10px;
+  }
+  .res-name,
+  .res_rating,
+  .res_info,
+  .res_delivery_time {
+    margin: 0;
+    padding: 0;
+  }
+}
+.res-card :hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
