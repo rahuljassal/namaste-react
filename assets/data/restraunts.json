@@ -1,0 +1,742 @@
+[
+    {
+        "info": {
+            "id": "772509",
+            "name": "Rajwaada Restaurant & Lawn",
+            "cloudinaryImageId": "2bac7a35febc2ae024028977b0e0ea82",
+            "locality": "Awas Vikash Colony",
+            "areaName": "Chandi Purwa",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Indian",
+                "Tandoor",
+                "South Indian",
+                "Punjabi"
+            ],
+            "avgRating": 4.1,
+            "veg": true,
+            "parentId": "461014",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "20+",
+            "sla": {
+                "deliveryTime": 25,
+                "lastMileTravel": 4.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25 mins",
+                "lastMileTravelString": "4.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "isNewlyOnboarded": true,
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/rajwaada-restaurant-and-lawn-awas-vikash-colony-chandi-purwa-hardoi-772509",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "181428",
+            "name": "Treat N Fun Restaurent",
+            "cloudinaryImageId": "kwfztvlccktkmsswtnpg",
+            "locality": "Hardoi - Kanpur Road",
+            "areaName": "Sadar",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Indian",
+                "Tandoor",
+                "South Indian",
+                "Punjabi"
+            ],
+            "avgRating": 3.9,
+            "veg": true,
+            "parentId": "217588",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 23,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "23 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/treat-n-fun-restaurent-kanpur-road-sadar-hardoi-181428",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "202136",
+            "name": "Treat Garden Resturant",
+            "cloudinaryImageId": "al1jmlsrityuttvlzzme",
+            "locality": "Mahatma Gandhi Road",
+            "areaName": "Civil Line",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Indian",
+                "Tandoor",
+                "South Indian",
+                "Punjabi"
+            ],
+            "avgRating": 4.2,
+            "parentId": "217573",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "26 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                        "description": "OnlyOnSwiggy"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "OnlyOnSwiggy",
+                                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/treat-garden-resturant-mahatma-gandhi-road-civil-line-hardoi-202136",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "181447",
+            "name": "Ranjana Hotel",
+            "cloudinaryImageId": "gpxwvqsybk9oowejyhaa",
+            "locality": "Bala Ji Hospital Road",
+            "areaName": "Civil Line",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Indian",
+                "Tandoor",
+                "South Indian",
+                "Punjabi"
+            ],
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "166964",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 18,
+                "lastMileTravel": 4.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "18 mins",
+                "lastMileTravelString": "4.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                        "description": "OnlyOnSwiggy"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "OnlyOnSwiggy",
+                                    "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/ranjana-hotel-bala-ji-hospital-road-civil-line-hardoi-181447",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "204928",
+            "name": "Agnihotri Bhojnalya",
+            "cloudinaryImageId": "u3ftrs6p6he6n6ylwld6",
+            "locality": "Numaish Chauraha",
+            "areaName": "Numaish Chauraha",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Indian",
+                "Tandoor",
+                "South Indian",
+                "Punjabi"
+            ],
+            "avgRating": 4,
+            "veg": true,
+            "parentId": "27760",
+            "avgRatingString": "4.0",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 22,
+                "lastMileTravel": 4.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "22 mins",
+                "lastMileTravelString": "4.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/agnihotri-bhojnalya-numaish-chauraha-hardoi-204928",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "740973",
+            "name": "Hardoi Kitchen Cafe And Restaurent",
+            "cloudinaryImageId": "d1f427e88dde5cc6fb1a6eae2f56a700",
+            "locality": "Canal Road",
+            "areaName": "Chandi Purwa",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Pizzas",
+                "Beverages",
+                "Chinese"
+            ],
+            "avgRating": 3.9,
+            "parentId": "439776",
+            "avgRatingString": "3.9",
+            "totalRatingsString": "50+",
+            "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "31 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "isNewlyOnboarded": true,
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/hardoi-kitchen-cafe-and-restaurent-canal-road-chandi-purwa-hardoi-740973",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "687277",
+            "name": "Anushka Pizza",
+            "cloudinaryImageId": "6b7ab6c81944a491c8436cee302a9243",
+            "locality": "Civil Line Zone-2",
+            "areaName": "Chandi Purwa",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Indian",
+                "Burgers",
+                "Fast Food",
+                "Snacks",
+                "Beverages"
+            ],
+            "avgRating": 4.2,
+            "veg": true,
+            "parentId": "323966",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 27,
+                "lastMileTravel": 4.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "27 mins",
+                "lastMileTravelString": "4.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-08 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/anushka-pizza-civil-line-zone-2-chandi-purwa-hardoi-687277",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "248586",
+            "name": "Tirupati Restaurent",
+            "cloudinaryImageId": "cautpyeyzarhflg6zxcs",
+            "locality": "Koyal Bagh Colony",
+            "areaName": "Civil Line",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Indian",
+                "Tandoor",
+                "South Indian",
+                "Punjabi"
+            ],
+            "avgRating": 4.2,
+            "veg": true,
+            "parentId": "216698",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 23,
+                "lastMileTravel": 4.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "23 mins",
+                "lastMileTravelString": "4.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/tirupati-restaurent-koyal-bagh-colony-civil-line-hardoi-248586",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    },
+    {
+        "info": {
+            "id": "535263",
+            "name": "Da Galaxy Rooftop",
+            "cloudinaryImageId": "oxx2wffk0fytqvzagivk",
+            "locality": "Nagheta Road",
+            "areaName": "Avas Vikas Colony",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Chinese",
+                "Indian",
+                "Pizzas"
+            ],
+            "avgRating": 3.2,
+            "parentId": "336682",
+            "avgRatingString": "3.2",
+            "totalRatingsString": "10+",
+            "sla": {
+                "deliveryTime": 28,
+                "lastMileTravel": 4.6,
+                "serviceability": "SERVICEABLE",
+                "slaString": "28 mins",
+                "lastMileTravelString": "4.6 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2024-01-07 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹120 OFF",
+                "subHeader": "ABOVE ₹199",
+                "discountTag": "FLAT DEAL"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
+        },
+        "analytics": {
+            "context": "seo-data-1e857a06-4658-4808-ac49-db874abd9ef7"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/da-galaxy-rooftop-nagheta-road-avas-vikas-colony-hardoi-535263",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+    }
+]

@@ -1,16 +1,17 @@
 import "./ResCard.css";
-const RestaurantCard = () => {
+const RestaurantCard = (props) => {
+  const { resData } = props;
   return (
     <div className="res-card">
       <img
         className="res-image"
-        src="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202304/zomato-2-1627023112-sixteen_nine.jpg?size=948:533"
-        alt="res-img"
+        src={`https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/${resData.cloudinaryImageId}`}
       ></img>
-      <h3 className="res-name">Call Me Chow</h3>
-      <h4 className="res_rating"> 4.3 stars</h4>
-      <h5 className="res_info">Chinese, Asian </h5>
-      <h6 className="res_delivery_time">45min </h6>
+      <h4 className="res-name">
+        {resData.name} <span className="res_rating"> {resData.avgRating}</span>
+      </h4>
+      <h6 className="res_info">{resData.cuisines.join(" ,")}</h6>
+      <h6 className="res_delivery_time">{resData.sla.deliveryTime}</h6>
     </div>
   );
 };
