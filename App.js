@@ -1,23 +1,31 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Header from "./Header";
+import Header from "./components/header/Header";
+import Body from "./components/Body/Body";
 
-// React element
-const heading = React.createElement("h1", { id: "heading" }, "Hello");
-const jsxHeading = <h1 id="heading">hello in JSX</h1>;
-const root = ReactDOM.createRoot(document.getElementById("root"));
-const FunctionalHeading = () => {
-  return <h1>heading in functional</h1>;
-};
-// react functional components
-const HeadingFunctional = () => {
+//  Strucure
+//     1. Header
+//         1. Logo
+//         2. Nav items (home, about us)
+//     2. Body
+//         1. Search
+//         2. Card container
+//             1. Restaurant card
+//                 1. name
+//                 2. Img
+//                 3. rating
+//     3. footer
+//         1. Copyright
+//         2. Info of company
+
+const App = () => {
   return (
-    <div className="heading-container">
+    <div className="app-container">
       <Header />
-      <FunctionalHeading />
-      <h1 className="heading">hello in functional component</h1>
+      <Body />
     </div>
   );
 };
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<HeadingFunctional />);
+root.render(<App />);
